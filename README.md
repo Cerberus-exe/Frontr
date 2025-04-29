@@ -2,14 +2,16 @@
 A simple front detection executable for your plural system.
 Hi, thank you for choosing our little program!
 
-The build is currently ALPHA 0.1.2 - expect some bugs!
+The build is currently ALPHA 0.1.3 - expect some bugs!
 
 -----------------------------------------------------------
 
 UPDATE REPORTS
 
+- Fixed window ratio - now you don't have to manually resize them
+- Added ability to search using multiple tags in a single field, seperated by commas
 - Fixed issue where uncommon tags did not narrow down the alters
-- Fixed .json file path - now saved alters are persistent and show up when you close and reopen the program.
+- Fixed .json file path - now saved alters are persistent and show up when you close and reopen the program
 
 KNOWN ISSUES
 
